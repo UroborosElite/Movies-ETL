@@ -1,2 +1,2 @@
 # Movies-ETL
- Module 8 Challenge Deliverables
+ Module 8 Challenge
